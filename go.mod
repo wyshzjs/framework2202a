@@ -1,5 +1,4 @@
-module framework
-
+module github.com/wyshzjs/framework2202a
 go 1.22
 
 require google.golang.org/grpc v1.65.0
